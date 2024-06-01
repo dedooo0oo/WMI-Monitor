@@ -1,0 +1,43 @@
+# Changelog
+
+## [2.3.0] - 2023 - 10 - 28
+
+### Added
+
+- Added access and storage of information regarding the process of your computer.
+
+
+## [2.2.0] - 2023 - 10 - 27
+
+### Added
+
+- Added access and storage of information regarding the solid disk of your computer.
+
+
+## [2.1.0] - 2023 - 10 - 14
+
+### Added
+
+- Added access and storage of information regarding the installed products on the system.
+
+### Fixed
+
+- Fixed output. 
+
+
+## [1.0.1] - 2023 - 10 - 07
+
+### Added
+
+- Added creation of a new trace.log/os.csv file when the single file becomes too large.
+
+
+## [1.0.0] - 2023 - 10 - 06
+
+### Created 
+
+- Created the program.
+
+
+
+
