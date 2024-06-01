@@ -1,7 +1,7 @@
 # WMI Monitor
 
 ![Language](https://img.shields.io/badge/Spellcheck-Pass-green?style=flat)
-![Platform](https://img.shields.io/badge/OS%20platform%20supported-Windows,Linux-blue?style=flat)
+![Platform](https://img.shields.io/badge/OS%20platform%20supported-Windows-blue?style=flat)
 ![Language](https://img.shields.io/badge/Language-Python-yellowgreen?style=flat)
 ![Testing](https://img.shields.io/badge/Test-Pass-green)
 
